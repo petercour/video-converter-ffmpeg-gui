@@ -5,6 +5,8 @@ The program is a GUI for the program ffmpeg.
 
 <img src="video-converter.png">
 
+![Video converter ffmpeg gui](/video-converter.png)
+
 Select a file. Then select the output format (mpg,mp3,mp4..).
 When clicking the convert button, the input file is converted to the output file.
 
