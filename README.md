@@ -1,9 +1,7 @@
 ## Video converter
 
-Convert video/audio file using ffmpeg. 
+Convert video/audio file using ffmpeg. **This program requires ffmpeg**.
 The program is a GUI for the program ffmpeg.
-
-<img src="video-converter.png">
 
 ![Video converter ffmpeg gui](/video-converter.png)
 
